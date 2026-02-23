@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">restobisky</string>
+    <string name="title_activity_main">restobisky</string>
+    <string name="package_name">ionic.restobisky</string>
+    <string name="custom_url_scheme">ionic.restobisky</string>
+</resources>
